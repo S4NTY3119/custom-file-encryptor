@@ -1,5 +1,6 @@
 import base64
-import getpass #dang
+import getpass
+import shit as shi #dang
 import os
 import subprocess
 import sys
